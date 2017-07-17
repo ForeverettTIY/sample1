@@ -1,1 +1,7 @@
 Hello there my name is Everett
+
+I learned how to push new text to git 
+
+i will have to git add . 
+then I will have to commit -m “add my comment” 
+then push origin to master 
